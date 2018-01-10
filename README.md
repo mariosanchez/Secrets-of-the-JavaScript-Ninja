@@ -9,3 +9,4 @@
 * [Chapter 6: Functions for the future: generators and promises](./exercises/6.md)
 * [Chapter 7: Object orientation with prototypes](./exercises/7.md)
 * [Chapter 8: Controlling access to objects](./exercises/8.md)
+* [Chapter 9: Dealing with collections](./exercises/9.md)
